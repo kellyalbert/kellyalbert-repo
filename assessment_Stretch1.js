@@ -119,6 +119,5 @@ function greeter(name,number) {
   }
 }
 
-greeter("Albert", -28);
+greeter("Albert", 28);
 
-git checkout -b gh-pages
